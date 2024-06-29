@@ -2,9 +2,6 @@ package main
 
 import "fmt"
 
-
-
-
 func main()  {
 
 	var (
@@ -13,4 +10,15 @@ func main()  {
 	)
 
 	fmt.Println(a/b)
+
+	fmt.Println(testing(5,6))
 }
+
+
+func testing(a int,b int) int {
+
+return a*b
+
+}
+
+
