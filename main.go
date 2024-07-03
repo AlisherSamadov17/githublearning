@@ -1,12 +1,15 @@
 package main
 
-// import "fmt"
+import "fmt"
 
 // import "fmt"
 
 
 func main() {
 
+
+	var a int = 12+12+1212143564754321456
+    fmt.Println(a)
 	// var (
 	// 	a = 7.0
 	// 	b = 3.0
@@ -213,11 +216,6 @@ func main() {
 
 // fmt.Println(p1)
 // fmt.Println(p2)
-
-
-
-
-
 }
 
 
